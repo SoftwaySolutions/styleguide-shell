@@ -1,0 +1,8 @@
+.navbar { padding: 0; }
+
+h2:first-child { margin-top: 0; }
+h2 { border-bottom: 1px solid grey; }
+
+section { margin-bottom: 10em; }
+
+.well { margin: 2em 0; padding: 5em; text-align: center;}
